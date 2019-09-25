@@ -1,0 +1,63 @@
+#Runs Instagram interactions for Beyond the viel church everyday at 20:30:00 UTC (6:30pm EST)
+
+* * * * * /root/InstaPy/btvkwc.py >> /root/logs/myjob.log
+30 20 * * * python3 /root/InstaPy/btvkwc.py
+
+
+#Runs Instagrm interations for My account everyday, every hour
+* * * * * /root/InstaPy/kailyn.py >> /root/logs/myjob.log
+0 * * * * python3 /root/InstaPy/kailyn.py
+~                                                                      
+~                                                                      
+~                                                                      
+~                                                                      
+~                                                                      
+~                                                                      
+~                                                                      
+~                                                                      
+~                                                                      
+~                                                                      
+~                                                                      
+~                                                                      
+~                                                                      
+~                                                                      
+~                                                                      
+~                                                                      
+~                                                                      
+~                                                                      
+~                                                                      
+~                                                                      
+~                                                                      
+~                                                                      
+~                                                                      
+~                                                                      
+~                                                                      
+~                                                                      
+~                                                                      
+~                                                                      
+~                                                                      
+~                                                                      
+~                                                                      
+~                                                                      
+~                                                                      
+~                                                                      
+~                                                                      
+~                                                                      
+~                                                                      
+~                                                                      
+~                                                                      
+~                                                                      
+~                                                                      
+~                                                                      
+~                                                                      
+~                                                                      
+~                                                                      
+~                                                                      
+~                                                                      
+~                                                                      
+~                                                                      
+~                                                                      
+~                                                                      
+~                                                                      
+"crontab.mvzH38/crontab" 9L, 366C written
+
