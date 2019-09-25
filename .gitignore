@@ -1,3 +1,18 @@
+# Extra Files
+DOCUMENTATION.md
+CHANGELOG.md
+LICENSE
+MANIFEST.in
+CODE_OF_CONDUCT.md
+assets/
+proxy_extension.py
+*.log
+quickstart.py
+setup.cfg
+setup.py
+tests/
+tox.ini
+
 # pylint file
 googlecl-pylint.rc.txt
 assets/chromedriver
