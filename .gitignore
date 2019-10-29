@@ -1,9 +1,4 @@
 # Extra Files
-DOCUMENTATION.md
-CHANGELOG.md
-LICENSE
-MANIFEST.in
-CODE_OF_CONDUCT.md
 
 # pylint file
 googlecl-pylint.rc.txt
